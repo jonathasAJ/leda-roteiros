@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-08T21:38:26.220-0300</date>
+  <logger>JONATAS ALVES JORGE</logger>
+  <level>FINE</level>
+  <message>File 123110541-JONATAS ALVES JORGE.zip was received. It was sent by JONATAS ALVES JORGE from IP 192.168.0.7 at 08-10-2024 21*38*26</message>
+</record>
